@@ -1,5 +1,4 @@
 # discord-line-exchange
-====  
 Discord => LINE / LINE = > Discord
 
 ## Description
