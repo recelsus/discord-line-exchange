@@ -6,6 +6,5 @@ exports.group = {
 }
 
 exports.name = {
-    "LINE_DISP_NAME": "DISCORD_DISPNAME",
     "Pikachu":"Raichu"
 }
