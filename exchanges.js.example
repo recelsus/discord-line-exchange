@@ -1,0 +1,11 @@
+// // const group_exchanges = require("./exchanges.js");
+
+exports.group = {
+    "LINE_GROUP_ID_A" : "DISCORD_CHANNEL_ID_A",
+    "DISCORD_CHANNEL_ID_A" : "LINE_GROUP_ID_A"
+}
+
+exports.name = {
+    "LINE_DISP_NAME": "DISCORD_DISPNAME",
+    "Pikachu":"Raichu"
+}
