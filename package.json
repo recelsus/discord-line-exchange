@@ -1,0 +1,25 @@
+{
+  "name": "discord-line-exchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recelsus/discord-line-exchange.git"
+  },
+  "author": "recelsus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/recelsus/discord-line-exchange/issues"
+  },
+  "homepage": "https://github.com/recelsus/discord-line-exchange#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^7.4.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2"
+  }
+}
